@@ -222,7 +222,7 @@ _Project:_
 > First, presence and cooperation in practica sessions is mandatory and will be assessed during the semester. Next, the
 > created portfolio is delivered before the 7th lab session at a specific date and time mentioned during the class.
 > During
-> the 7th lab session all students will be questioned individually to assess their understanding of the provided code
+> one of the following lab session all students will be questioned individually to assess their understanding of the provided code
 > and
 > UML diagrams. Finally, the students deliver, present and defend their project during a time slot in the examination
 > period.
