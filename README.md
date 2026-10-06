@@ -22,7 +22,7 @@ Each lab lives in `labs/labX` and has its **own README** with the tasks, tips, a
 2. **Verify SDKs (Java 21 everywhere)**  
    *File → Project Structure → Project* → SDK = **21**; Language level = **21**.  
    *Project Structure → Modules* → ensure modules inherit the Project SDK.  
-   *Settings → Build Tools → Maven → Importing* → JDK for importer = **21**.
+   *Settings → Build Tools → Maven → Importing* → JDK for importer = **21**, or  *Settings → Build Tools → External Changes*
 3. **Reload Maven** using the **Maven** tool window (**Reload All Maven Projects**).
 
 > If the Maven tab is greyed out, you most likely opened a folder instead of the **root `pom.xml`**. Close the project
