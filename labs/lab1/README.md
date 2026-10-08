@@ -29,7 +29,6 @@ By the end of this lab you should:
 4. Provide both **the code** and **the Sequence Diagrams** for:
     5. Booking a room in a hotel for a range of dates
     6. Booking a room in the cheapest hotel for a range of dates
-7. _Optional:_ add tests to verify your implementation.
 
 ## Where to Code
 
