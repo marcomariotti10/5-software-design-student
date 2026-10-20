@@ -18,19 +18,20 @@
     - `Programmer`: `(hourly salary * hours worked) + (bug bonus * #bugs)`
     - `CustomerService`: `(hourly salary * hours worked) + (customer bonus * #customers)`
     - `DepartmentOfficer`: `(hourly salary * hours worked) + (company bonus)`
+    - **GOAL** : Complete the code and write Unit tests for all the calculateDailySalary() functions
 
 2. **Abstractions** — `Shape` with abstract `calcCircumference()` and `calcArea()`
     - Implement `Circle`, `Square`, and `EquiliteralTriangle`.
     - In `main`, instantiate multiple shapes and compute both measures.
-    - Provide tests.
+    - **GOAL** : Complete the code and write Unit tests for the functions
 
 3. **Interfaces** — *Universal remote* (`VolumeDevice` interface).
     - User can raise/lower volume of multiple devices via a `Remote`.
     - Add new devices by implementing the interface.
-    - Design the class diagram first, then implement. Tests are optional but encouraged.
+    - **GOAL** : Design the class diagram first, then implement.
 
 4. **Relations** — *Film Festival*
-    - Create a class Diagram based on the code.
+    - **GOAL** : Create a class Diagram based on the code.
         - Look at the correct relation type
             - Composition
             - Aggregation
