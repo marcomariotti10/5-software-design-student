@@ -58,8 +58,7 @@ This lab is three small parts that build pattern fluency:
 
 ### Deliverables
 - You'll have to provide **at least one Unit test and one Integration test**. 
-- All code should be implemented.
-- _Bonus_: provide UML diagrams
+- **All code should be implemented**
 
 
 ## Where to Code
