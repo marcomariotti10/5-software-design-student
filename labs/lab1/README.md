@@ -23,12 +23,12 @@ You’ll model and implement parts of a **simple hotel booking system** with thr
 
 By the end of this lab you should:
 
-1. **Implement the code** for booking a room given the sequence diagram (open the `.xml` file from BB in Visual Paradigm)
+1. **Implement the code** for booking a room given the sequence diagram
 2. **Create a full Sequence diagram** given the code for finding the cheapest hotel
 3. Provide **the code** and the **sequence diagram** for:
    4. Booking a room in a hotel for a range of dates
    5. Booking a room in the cheapest hotel for a range of dates
-8. **Draw a Use Case diagram** of all the features.
+6. **Draw a Use Case diagram** of all the features.
 
 ## Where to Code
 
