@@ -25,11 +25,9 @@ By the end of this lab you should:
 
 1. **Implement the code** for booking a room given the sequence diagram (open the `.xml` file from BB in Visual Paradigm)
 2. **Create a full Sequence diagram** given the code for finding the cheapest hotel
-3. Provide **the code** for:
+3. Provide **the code** and the **sequence diagram** for:
    4. Booking a room in a hotel for a range of dates
-   5. Booking a room in the cheapest hotel for a range of dates 
-   6. _Bonus_: Provide Sequence Diagrams for both.
-7. _Bonus:_ add tests to verify your implementation.
+   5. Booking a room in the cheapest hotel for a range of dates
 8. **Draw a Use Case diagram** of all the features.
 
 ## Where to Code
