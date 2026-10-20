@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>be.uantwerpen.sd</groupId>
+        <artifactId>software-design-student</artifactId>
+        <version>1.0.0</version>
+        <relativePath>../pom.xml</relativePath>
+    </parent>
+    <groupId>be.uantwerpen.sd.labs</groupId>
+    <artifactId>labs</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>grader</module>
+        <module>lab1</module>
+        <module>lab2</module>
+        <module>lab3</module>
+        <module>lab4a</module>
+        <module>lab4b</module>
+        <module>lab5</module>
+        <module>project</module>
+    </modules>
+</project>
