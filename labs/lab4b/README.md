@@ -44,7 +44,9 @@ Keep your implementation simple and readable so it maps cleanly to the class dia
 
 ## How to run:
 ### Intellij:
-select `Lab4b JavaFX` from your run configurations.
+run in the terminal, from the directory of the .pom file, the following command: .\mvnw.cmd clean install
+
+from Maven (in the sidebar on the left), select labs, lab4b, plugins, javafx and then select `javafx:run` to run the program (is normal at the beginning it gives an error because you need to complete the code first).
 
 ### VSCode
 ```bash
